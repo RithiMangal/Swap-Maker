@@ -33,7 +33,7 @@ Built with **Rust** and powered by **egui**, it eliminates the need for complex 
 
 ### 6. Seamless Root Privilege Escalation
 *   **What it does:** Integrates with native Linux `pkexec` (PolicyKit) authentication popups.
-*   **How it helps:** Root access is required to modify storage. NeonSwap safely requests system privileges only when executing backend actions, keeping the core app runtime separate and highly secure.
+*   **How it helps:** Root access is required to modify storage. SwapMaker safely requests system privileges only when executing backend actions, keeping the core app runtime separate and highly secure.
 
 ---
 
