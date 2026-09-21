@@ -3,7 +3,7 @@
 [![License: MIT](https://shields.io)](https://opensource.org)
 [![Language: Rust](https://shields.io)](https://rust-lang.org)
 
-**NeonSwap** is a lightweight, high-performance Linux system utility designed to create, resize, activate, and deactivate swap space through a modern, easy-to-use graphical interface (GUI). 
+**SwapMaker** is a lightweight, high-performance Linux system utility designed to create, resize, activate, and deactivate swap space through a modern, easy-to-use graphical interface (GUI). 
 
 Built with **Rust** and powered by **egui**, it eliminates the need for complex terminal commands, allowing both users and developers to manage virtual memory safely and efficiently.
 
@@ -71,12 +71,3 @@ cargo build --release
 ```bash
 sudo ./target/release/swap-activator
 ```
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-Crafted with 💻, 🦀, and ☕ by [[Your Name](https://github.com[your-username])]
